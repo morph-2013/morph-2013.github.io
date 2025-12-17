@@ -487,9 +487,9 @@
   description:
   authors: Bryan S. Hernandez, Patrick Vincent N. Lubenia, and Eduardo R. Mendoza
   link:
-      url: https://arxiv.org/pdf/2310.18931
-      display: Accepted for Publication at the Journal of Mathematical Chemistry
-  year: 2024
+      url: https://match.pmf.kg.ac.rs/electronic_versions/Match93/n2/match93n2_291-318.pdf
+      display: MATCH Communication in Mathematical and Computer Chemistry, 93, 291–318
+  year: 2025
 
 - title: "Parameter-Minimal Analysis of Carbon Dioxide Removal through Direct Air Capture"
   image: 
@@ -508,3 +508,12 @@
       url: https://link.springer.com/article/10.1007/s41660-025-00624-6#citeas
       display: Process Integration and Optimization for Sustainability, doi.org/10.1007/s41660-025-00624-6
   year: 2025
+
+- title: "The Long-Term Impact of Direct Capture Approaches to Carbon Dioxide Removal"
+  image: 
+  description:
+  authors: Al Jay Lan Alamin, Melquezedec James Cruz, Bryan S. Hernandez, and Eduardo R. Mendoza
+  link:
+      url: https://arxiv.org/abs/2510.20593
+      display: Accepted for Publication at MATCH Communication in Mathematical and Computer Chemistry
+  year: 2026
